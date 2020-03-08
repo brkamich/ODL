@@ -1,0 +1,2 @@
+org\elasticsearch\plugin\extractor\MetadataExtractor.class
+org\elasticsearch\plugin\extractor\ExtractorRestHandler.class
